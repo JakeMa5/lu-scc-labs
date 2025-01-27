@@ -1,0 +1,11 @@
+
+#ifndef CONSTANTS_GLOBAL_H
+#define CONSTANTS_GLOBAL_H
+
+#define MAX_FIXTURES	10
+#define MAX_STRING_LEN	80
+#define	MAX_MAPPINGS	10
+#define	MAX_CUES	10
+#define	MAX_STEPS	20
+
+#endif // CONSTANTS_GLOBAL_H
